@@ -14,7 +14,7 @@
     |   |-- dice3.png
     |   |-- dice4.png
     |   |-- dice5.png
-    |   `-- dice6.png
+    |   |-- dice6.png
     |-- index.js
     |-- styles.css
 ```
